@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "AGRO-vor-05-28_0955",
+    "name": "Var-kotel-Voronej-220917",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,13 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "",
+    "confidenceAlert": ""
   },
   "pages": {
     "index.html": {
@@ -360,7 +366,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -378,7 +384,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/var-kot-par-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/380-700-f3-var-kot-par-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -418,7 +424,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -440,7 +446,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/var-kot-kafe-1400x550.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17-380-700-f3-var-kot-pr-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -502,7 +508,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/var-kot-pr-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17-380-700-f3-var-kot-korz-cil-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -564,7 +570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/var-kot-opr-1400x760-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/380-700-f3-var-kot-medn-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -604,7 +610,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -626,7 +632,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/700-388-sirop-kotel-1400x676.jpg",
+              "src": "@PROJECT_PATH@/assets/images/380-700-f3-sir-kot-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -979,7 +985,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3673-dsc-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3896-dsc-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1037,7 +1043,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5346-dsc-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3400-dsc-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
