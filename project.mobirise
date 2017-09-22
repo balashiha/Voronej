@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 58,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -328,8 +328,101 @@
             "bgColor": "#7e9b9f",
             "showMeta": false
           },
-          "title": "Варочные котлы",
+          "title": "Варочные котлы - серийная продукция",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_params": {
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "slides": [
+              {
+                "src": "@PROJECT_PATH@/assets/images/3755_dsc-2000x1333.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/3755-dsc-1024x576.jpg",
+                "title": "Варочный ",
+                "text": "котел",
+                "tooltip": "@PROJECT_PATH@/assets/images/3755-dsc-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/7234_dsc0089-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/7234-dsc0089-1024x576.jpg",
+                "title": "",
+                "text": "",
+                "tooltip": "@PROJECT_PATH@/assets/images/7234-dsc0089-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/dsc-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1024x576.jpg",
+                "title": "",
+                "text": "",
+                "tooltip": "@PROJECT_PATH@/assets/images/dsc-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/7942_dsc0025-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/7942-dsc0025-1024x576.jpg",
+                "title": "Установки ",
+                "text": "смешения",
+                "tooltip": "@PROJECT_PATH@/assets/images/7942-dsc0025-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/5107_dsc-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/5107-dsc-1024x576.jpg",
+                "title": "",
+                "text": "",
+                "tooltip": "@PROJECT_PATH@/assets/images/5107-dsc-85x48.png"
+              },
+              {
+                "src": "file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81/AppData/Local/Mobirise.com/Mobirise/projectData/8022_dsc0177-2000x1332_6.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/8022-dsc0177-1024x576-1.jpg",
+                "title": "Вакуумные",
+                "text": " реакторы",
+                "tooltip": "@PROJECT_PATH@/assets/images/8022-dsc0177-85x48-1.png"
+              }
+            ],
+            "theme": "graffito",
+            "bgColor": "#7e9b9f",
+            "animType": "blur",
+            "autoplay": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "fullScreen": true,
+            "showBullets": true,
+            "timeout": 2,
+            "duration": 2,
+            "height": "576",
+            "width": "1024",
+            "responsive": "1",
+            "showCaptions": true,
+            "captionsEffect": "slide",
+            "hideControls": false
+          },
+          "_anchor": "wowslider-1l",
+          "articleLayout": false
         },
         {
           "_tags": [
