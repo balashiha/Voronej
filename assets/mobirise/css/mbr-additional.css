@@ -1102,3 +1102,9 @@ h6,
   font-size: 25px;
   font-family: 'Montserrat', sans-serif;
 }
+#form1-1j .form-control-label {
+  color: #232323;
+}
+#form1-1j .mbr-section-title {
+  font-size: 24px;
+}
